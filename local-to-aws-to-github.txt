@@ -1,1 +1,4 @@
 successfully connect to github from local via aws
+local machine (windows)
+host aws server (amazone linux)
+to workspace: github
